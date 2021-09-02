@@ -5,12 +5,17 @@ footer img {
   width: 125px;
 }
 
-footer p {
+footer-list {
+  float: right;
+}
+
+footer-list li {
+  padding-bottom: 20px;
   color: #ecf0f1;
   font-size: 12px;
 }
 
 footer {
-  padding-top: 30px;
-  padding-bottom: 20px;
+  height: 120px;
+  padding: 40px;
 }
