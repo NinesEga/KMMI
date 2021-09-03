@@ -1,21 +1,19 @@
-* {
-  box-sizing: border-box;
+li {
+  list-style: none;
 }
-footer img {
-  width: 125px;
+.footer{
+  background-color: #2f5167;
+  color: #fff;
+  height: 150px;
+  padding: 40px;
 }
-
-footer-list {
+.footer-logo{
+  float:left;
+  font-size:24px;
+}
+.footer-list{
   float: right;
 }
-
-footer-list li {
-  padding-bottom: 20px;
-  color: #ecf0f1;
-  font-size: 12px;
-}
-
-footer {
-  height: 120px;
-  padding: 40px;
+.footer-list li{
+  padding-bottom:20px;
 }
