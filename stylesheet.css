@@ -5,15 +5,17 @@ li {
   background-color: #2f5167;
   color: #fff;
   height: 150px;
-  padding: 40px;
+  padding: 30px;
+  font-family: 'Noto sans';
 }
 .footer-logo{
   float:left;
-  font-size:24px;
+  font-size:20px;
 }
 .footer-list{
   float: right;
+  font-size: 14px;
 }
 .footer-list li{
-  padding-bottom:20px;
+  padding-bottom: 15px;
 }
